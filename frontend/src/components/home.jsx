@@ -32,7 +32,7 @@ export default function Home({ setStart }) {
 
         <img
           className="heroImage"
-          src="/careermatch.png"
+          src="public/careermatch.png"
           alt="career illustration"
         />
 
