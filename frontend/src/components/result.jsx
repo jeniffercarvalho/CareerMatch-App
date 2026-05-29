@@ -8,7 +8,7 @@ export default function Result({ results }) {
       <div className="resultTop">
 
         <img
-          src="../careermatch.png"
+          src="/careermatch.png"
           alt="avatar"
           className="resultAvatar"
         />
