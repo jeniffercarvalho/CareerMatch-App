@@ -87,7 +87,7 @@ export default function App() {
 
             {/* IMAGE */}
             <img
-              src="public/careermatch.png"
+              src="careermatch.png"
               alt="character"
               className="heroImage"
             />
